@@ -1,0 +1,10 @@
+streamlit
+python-dotenv
+langdetect
+Pillow
+google-ai-generativelanguage
+crewai
+faster-whisper
+whisper
+soundfile
+pydub
